@@ -4,9 +4,9 @@
 age 22
 contacts - vitalia.tereschenko@gmail.com
 ## Hard Skills: 
-*HTML
-*CSS
-*JS
+* HTML
+* CSS
+* JS
 ## Soft Skills: 
 * Fast lerner
 * creative
